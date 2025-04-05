@@ -1,6 +1,6 @@
 # Mi Portafolio 🚀
 
-¡Hola! Soy Gómez Matías estudiante avanzado de análisis de sistemas. Este es mi portafolio personal, donde muestro algunos de mis proyectos más destacados y las tecnologías que utilizo.
+¡Hola! Soy Matías Gómez, estudiante avanzado de análisis de sistemas. Este es mi portafolio personal, donde muestro algunos de mis proyectos más destacados y las tecnologías que utilizo.
 
 ## 👨‍💻 Acerca de mí
 

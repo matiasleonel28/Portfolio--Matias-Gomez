@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Acerca de mí
 
-Actualmente, me encuentro cursando la **Tecnicatura Superior en Análisis de Sistemas**, donde he desarrollado una sólida base en programación, redes y testing. Complemento mi formación académica con un enfoque autodidacta, realizando cursos y obteniendo certificaciones en áreas como redes, esting y desarrollo de software.
+Actualmente, me encuentro cursando la **Tecnicatura Superior en Análisis de Sistemas**, donde he desarrollado una sólida base en programación, base de datos, y actualmente aprendiendo testing. Complemento mi formación académica con un enfoque autodidacta, realizando cursos y obteniendo certificaciones en áreas como redes, testing y desarrollo de software.
 
 Además, tengo un nivel C2 en inglés, lo que me permite comprender documentación técnica con fluidez, comunicarme de manera efectiva en entornos profesionales y participar en proyectos con documentación y equipos internacionales.
 
